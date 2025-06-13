@@ -1,4 +1,4 @@
-Teclado Virtual de Mano con Predicción Neuronal
+### Teclado Virtual de Mano con Predicción Neuronal
 Este proyecto experimental implementa un teclado virtual completamente funcional que puede ser controlado únicamente con el dedo índice, detectado a través de la cámara web. Utiliza visión por computadora (MediaPipe) para el seguimiento de la mano y una Red Neuronal LSTM (Long Short-Term Memory) para la predicción y autocompletado dinámico de palabras. Esta interfaz alternativa elimina la necesidad de dispositivos físicos, abriendo posibilidades para entornos accesibles o sin contacto.
 
 ### Características Principales:
